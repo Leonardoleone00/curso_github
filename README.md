@@ -2,8 +2,10 @@
 
 Texto de explicação
 
-##Funcionalidades:
+## Funcionalidades:
 
 Checkout, tela de produtos, catalogo,home com banners
 
+###### Melhorias do projeto
 
+melhoria 1, melhoria 2
