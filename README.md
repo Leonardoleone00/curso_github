@@ -22,8 +22,8 @@ melhoria 1, melhoria 2
 ### Funcionalidades a desenvolver
 
 1. Área de membros
-        1. Login diferente
-        2. Desconto especial
-        3. CSS diferente
+    1. Login diferente
+    2. Desconto especial
+    3. CSS diferente
 2. Integração com outros pagamentos
 3. Sistema de bônus primeira compra
