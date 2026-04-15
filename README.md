@@ -45,3 +45,10 @@ melhoria 1, melhoria 2
     return a + b;
     }
 ````
+
+## Lista de tarefas a fazer
+
+- [ x ] Área de membros
+- [ ] Integração com outros pafamentos
+- [ ] Sistema de Bônus
+- [ x ] CSS do rodapé
