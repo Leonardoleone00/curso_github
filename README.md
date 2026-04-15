@@ -4,7 +4,7 @@ Texto de explicação
 
 ## Funcionalidades:
 
-Checkout, tela de produtos, catalogo,home com banners
+Checkout, **tela de produtos**, catalogo,home com *banners*
 
 ###### Melhorias do projeto
 
