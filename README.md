@@ -37,3 +37,11 @@ melhoria 1, melhoria 2
 [Google](https://www.google.com)
 
 [![Lupa](img/lupa.png)](https://www.google.com)
+
+## Código da função soma
+
+'''javascript
+ function soma(a, b){
+    return a + b;
+    }
+'''
