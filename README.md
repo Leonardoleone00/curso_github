@@ -40,8 +40,8 @@ melhoria 1, melhoria 2
 
 ## Código da função soma
 
-'''javascript
+````javascript
  function soma(a, b){
     return a + b;
     }
-'''
+````
