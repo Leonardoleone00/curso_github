@@ -36,4 +36,4 @@ melhoria 1, melhoria 2
 
 [Google](https://www.google.com)
 
-[![Lupa](img/lupa.png)]([Google](https://www.google.com))
+[![Lupa](img/lupa.png)](https://www.google.com)
