@@ -31,3 +31,7 @@ melhoria 1, melhoria 2
 ### Imagem local
 
 ![Lupa](img/lupa.png)
+
+### Links de interesse
+
+[Google](https://www.google.com)
