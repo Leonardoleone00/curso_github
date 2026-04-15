@@ -27,3 +27,7 @@ melhoria 1, melhoria 2
     3. CSS diferente
 2. Integração com outros pagamentos
 3. Sistema de bônus primeira compra
+
+### Imagem local
+
+![Lupa](img/lupa.png)
