@@ -35,3 +35,5 @@ melhoria 1, melhoria 2
 ### Links de interesse
 
 [Google](https://www.google.com)
+
+[![Lupa](img/lupa.png)]([Google](https://www.google.com))
