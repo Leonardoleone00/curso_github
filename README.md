@@ -48,7 +48,7 @@ melhoria 1, melhoria 2
 
 ## Lista de tarefas a fazer
 
-- [ x ] Área de membros
+- [x] Área de membros
 - [ ] Integração com outros pafamentos
 - [ ] Sistema de Bônus
-- [ x ] CSS do rodapé
+- [x] CSS do rodapé
